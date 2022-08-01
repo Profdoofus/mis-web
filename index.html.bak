@@ -1,0 +1,28 @@
+<DOCTYPE!html>
+<html>
+<head>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<hl>T-Shirts for sale</hl>
+
+<p>Welcome to the T-Shirt shop. Here is where i sell mt T-shirts.</p>
+
+<div id="shirt">
+	<div id="image"><img src="t-shirt.webp" width=200px></div>
+	<div id="description"><p>This is a shirt that states that you shaved for this</p></div>
+</div>
+
+<div id="reviews">
+	<div id="review">
+		<p id="name">Luke Skywalker</p>
+		<p id="content">I liked this shirt a lot it is very blue and very cool and all my friends recognize me as a jedi</p>
+	</div>
+</div>
+
+
+</body>
+
+</html>
